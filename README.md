@@ -58,7 +58,7 @@ networkx
 
 ## Dataset
 
-The project uses a financial transaction dataset ((https://www.kaggle.com/datasets/ealaxi/paysim1)[Paysim]). This dataset contains various features of financial transactions, including:
+The project uses a financial transaction dataset ([Paysim](https://www.kaggle.com/datasets/ealaxi/paysim1)). This dataset contains various features of financial transactions, including:
 
 - Transaction amounts
 - Transaction types
